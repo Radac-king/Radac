@@ -25,10 +25,10 @@
             <div class="footer_contact">
                 <h1>Contact</h1>
 
-                <a href="#" target="_blank" rel="noopener noreferrer">
+                <a href="https://www.github.com/Radac-king" target="_blank" rel="noopener noreferrer">
                     <img src="../assets/images/github.png" alt="github icon">
                 </a>
-                <a href="Https://www.instagram.com/its_riddleking/" target="_blank" rel="noopener noreferrer">
+                <a href="https://www.instagram.com/its_riddleking/" target="_blank" rel="noopener noreferrer">
                     <img src="../assets/images/instagram.png" alt="instagram icon">
                 </a>
                 <a href="#" target="_blank">
