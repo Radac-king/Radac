@@ -40,7 +40,7 @@
 
                 <div class="contact_infor">
                     <p>reagankingoi@gmail.com</p>
-                    <p>+254 794 594 387</p>
+                    <p><a href="tel:+254 794 594 387"></a>+254 794 594 387</p>
                 </div>
             </div>
         </div>
