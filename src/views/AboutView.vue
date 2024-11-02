@@ -7,9 +7,11 @@
 
         <div class="about_content">
             <div class="about_infor">
-                <p>I am Reagan, a Hardware Engineer who is Lorem ipsum dolor sit, amet consectetur adipisicing elit. 
-                    Dolorum, molestias? Accusamus magni earum aliquid quae illo fugiat explicabo voluptatibus, odio 
-                    non optio quam commodi aperiam. Modi corrupti unde assumenda ab?
+                <p>At Radac Hardwares, we are dedicated to providing top-notch computer hardware solutions, 
+                    specializing in the repair and sale of high-quality parts. 
+                    Our expert team is committed to quickly diagnosing and fixing hardware issues, ensuring you get back to what matters most.
+                     With a focus on customer satisfaction, we offer competitive pricing and a seamless experience for tech enthusiasts and businesses alike. 
+                     Thank you for choosing Radac Hardwares; we look forward to serving you!
                 </p>
             </div>
 

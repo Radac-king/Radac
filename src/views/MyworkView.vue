@@ -10,8 +10,7 @@
                     <img src="../assets/images/work1.jpg" alt="Work Picture">
                 </div>
                 <h3>Network Setup</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sit, fugiat. Consequatur laudantium
-                    laborum quidem perspiciatis. Sit rem velit ratione ea.
+                <p>Wifi Installation, Wifi extenssion, Cable replacements, 
                 </p>
                 <button type="submit">
                     <a href="#Contact">Inquire</a>
@@ -23,8 +22,11 @@
                     <img src="../assets/images/work2.jpg" alt="Work Picture">
                 </div>
                 <h3>Hardware Mainatance & repairs</h3>
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatibus hic possimus qui necessitatibus suscipit odio 
-                    autem alias quaerat reprehenderit.
+                <p>Hardisks repair and sale
+                    BIOS Setup and repair
+                    Keyboard replacements
+                    Preventive maintainance
+                    Ram Replacement and sale 
                 </p>
                 <button type="submit">
                     <a href="#Contact">Inquire</a>
@@ -36,8 +38,7 @@
                     <img src="../assets/images/work3.jpg" alt="Work Picture">
                 </div>
                 <h3>Os Installation</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, voluptate perspiciatis dolores ratione possimus
-                    necessitatibus aliquam cum quae distinctio.
+                <p>Windows 7,8,10,11 (32 and 64 bit)
                 </p>
                 <button type="submit">
                     <a href="#Contact">Inquire</a>
